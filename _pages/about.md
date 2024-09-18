@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Mingjing Liang"
 excerpt: ""
 author_profile: true
 redirect_from: 
