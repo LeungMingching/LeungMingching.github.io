@@ -46,6 +46,10 @@ My current project involves advancing a data-driven planning system designed to 
 - *2021.10*  Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 📁 Projects
+- *2023.01 - present*, Data-driven Planning System.
+- *2022.01 - 2022.12*, B´ezier Curve based Lateral Planning.
+
 # 📖 Educations
 - *2020.08 - 2021.06*, Master in Machanical Engineering, National University of Singapore, Singapore.
 - *2019.09 - 2020.07*, Joint Educational Programme in Mechanical Engineering, National University of Singapore Research Institue, Suzhou.
@@ -56,5 +60,5 @@ My current project involves advancing a data-driven planning system designed to 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💼 Work
+- *2021.09 - present*, Autonomous Driving Researcher (Planning and Control team), X-lab, GAC R&D Center, Guangzhou.
