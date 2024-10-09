@@ -25,6 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Autonomous Driving Researcher"
   location         : "Guangzhou, China"
+  resume           : "assets/files/cv.pdf"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
