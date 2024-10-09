@@ -22,9 +22,18 @@ I am a Research Scientist at the [GAC R&D Center](https://www.gacrnd.com/) in Gu
 My current project involves advancing a data-driven planning system designed to enhance flexibility in complex scenarios. Additionally, I have contributed to the design of a path-planning algorithm based on the Bézier curve. I hold a Master of Mechanical Engineering from the [National University of Singapore](https://cde.nus.edu.sg/me/).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+- *2020.08 - 2021.06*, Master in Machanical Engineering, National University of Singapore, Singapore.
+- *2019.09 - 2020.07*, Joint Educational Programme in Mechanical Engineering, National University of Singapore Research Institue, Suzhou.
+- *2016.09 - 2019.07*, Bachelor in Mechanical Engineering, Sichuan University, Chengdu.
+- *2013.09 - 2016.06*, Zhixin High School, Guangzhou.
+
+# 💼 Work Experience
+- *2021.09 - present*, Autonomous Driving Researcher (Planning and Control team), X-lab, GAC R&D Center, Guangzhou.
+
+# 📁 Projects
+- *2023.01 - present*, Data-driven Planning System.
+- *2022.01 - 2022.12*, Bézier Curve based Lateral Planning.
 
 # 📝 Publications 
 
@@ -44,21 +53,4 @@ My current project involves advancing a data-driven planning system designed to 
 
 # 🎖 Honors and Awards
 - *2021.10*  Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📁 Projects
-- *2023.01 - present*, Data-driven Planning System.
-- *2022.01 - 2022.12*, B´ezier Curve based Lateral Planning.
-
-# 📖 Educations
-- *2020.08 - 2021.06*, Master in Machanical Engineering, National University of Singapore, Singapore.
-- *2019.09 - 2020.07*, Joint Educational Programme in Mechanical Engineering, National University of Singapore Research Institue, Suzhou.
-- *2016.09 - 2019.07*, Bachelor in Mechanical Engineering, Sichuan University, Chengdu.
-- *2013.09 - 2016.06*, Zhixin High School, Guangzhou.
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💼 Work
-- *2021.09 - present*, Autonomous Driving Researcher (Planning and Control team), X-lab, GAC R&D Center, Guangzhou.
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
