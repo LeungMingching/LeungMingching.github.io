@@ -1,0 +1,3 @@
+I am a Research Scientist at the [GAC R&D Center](https://www.gacrnd.com/) in Guangzhou, focusing primarily on the development of planning and control algorithms for autonomous driving systems.
+
+My current project involves advancing a data-driven planning system designed to enhance flexibility in complex scenarios. Additionally, I have contributed to the design of a path-planning algorithm based on the Bézier curve. I hold a Master of Mechanical Engineering from the [National University of Singapore](https://cde.nus.edu.sg/me/).
