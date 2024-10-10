@@ -21,7 +21,6 @@ I am a Research Scientist at the [GAC R&D Center](https://www.gacrnd.com/) in Gu
 
 My current project involves advancing a data-driven planning system designed to enhance flexibility in complex scenarios. Additionally, I have contributed to the design of a path-planning algorithm based on the Bézier curve. I hold a Master of Mechanical Engineering from the [National University of Singapore](https://cde.nus.edu.sg/me/).
 
-
 # 📖 Educations
 - *2020.08 - 2021.06*, Master in Machanical Engineering, National University of Singapore, Singapore.
 - *2019.09 - 2020.07*, Joint Educational Programme in Mechanical Engineering, National University of Singapore Research Institue, Suzhou.
@@ -52,5 +51,7 @@ My current project involves advancing a data-driven planning system designed to 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10*  Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2020.05*  Outstanding Student of Joint Educational Programme (ME-CLASS 2019).
+- *2019.04*  Third prize in the 2019 RoboCup China Open.
+- *2018.11*  Secondary Scholarship of Sichuan University.
+- *2018.08*  Second prize in the National Undergraduate Engineering Training Integration Ability Competition (NUETAC 2018).
