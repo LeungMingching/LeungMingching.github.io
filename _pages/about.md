@@ -21,20 +21,18 @@ I am a Research Scientist at the [GAC R&D Center](https://www.gacrnd.com/) in Gu
 
 My current project involves advancing a data-driven planning system designed to enhance flexibility in complex scenarios. Additionally, I have contributed to the design of a path-planning algorithm based on the Bézier curve. I hold a Master of Mechanical Engineering from the [National University of Singapore](https://cde.nus.edu.sg/me/).
 
-# 📖 Educations
+# Educations
 - *2020.08 - 2021.06*, Master in Machanical Engineering, National University of Singapore, Singapore.
 - *2019.09 - 2020.07*, Joint Educational Programme in Mechanical Engineering, National University of Singapore Research Institue, Suzhou.
 - *2016.09 - 2019.07*, Bachelor in Mechanical Engineering, Sichuan University, Chengdu.
 - *2013.09 - 2016.06*, Zhixin High School, Guangzhou.
 
-# 💼 Work Experience
+# Work Experience
 - *2021.09 - present*, Autonomous Driving Researcher (Planning and Control team), X-lab, GAC R&D Center, Guangzhou.
 
-# 📁 Projects
+# Projects
 - *2023.01 - present*, Data-driven Planning System.
 - *2022.01 - 2022.12*, Bézier Curve based Lateral Planning.
-
-# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,9 +46,18 @@ My current project involves advancing a data-driven planning system designed to 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# Publications
 
-# 🎖 Honors and Awards
+## Papers
+- ``ISoIRS 2024`` [Planning in Autonomous Driving Using Imitation Learning With Research on
+Data Aggregation](https://ieeexplore.ieee.org/document/10649698), **Mingjing Liang**, Xu Gao, Yulong Wang, Huan Min.
+
+## Patents
+- An optimal modified post-processing method for rough initial solutions of decision planning models, **Mingjing Liang**, Xu Gao, Yulong Wang, Huan Min.
+- An iterative training method for decision planning models based on corrective sample data collection, **Mingjing Liang**, Xu Gao, Yulong Wang, Huan Min.
+- A path planning algorithm considering lane change time and dynamic obstacles, **Mingjing Liang**, Xu Gao, Yulong Wang, Huan Min.
+
+# Honors and Awards
 - *2020.05*  Outstanding Student of Joint Educational Programme (ME-CLASS 2019).
 - *2019.04*  Third prize in the 2019 RoboCup China Open.
 - *2018.11*  Secondary Scholarship of Sichuan University.
