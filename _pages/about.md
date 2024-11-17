@@ -27,6 +27,4 @@ redirect_from:
 
 {% include_relative sections/publication.md %}
 
-{% include_relative sections/work.md %}
-
 {% include_relative sections/award.md %}
