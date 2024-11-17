@@ -5,7 +5,7 @@
 Data Aggregation](https://ieeexplore.ieee.org/document/10649698), **Mingjing Liang**, Xu Gao, Yulong Wang, Huan Min.
 
 ## Patents
-- ``2024.09`` An optimal modified post-processing method for rough initial solutions of decision planning models, **Mingjing Liang**, Xu Gao, Shu Zhang, Huan Min, Peng Nie. Application Filed.
+- ``2024.09`` An optimization based post-processing method for rough initial solutions of decision planning models, **Mingjing Liang**, Xu Gao, Shu Zhang, Huan Min, Peng Nie. Application Filed.
 - ``2024.06`` A fast trajectory planning algorithm based on iterative optimization considering obstacle constraints, Wenru Liu, Huan Min, **Mingjing Liang**, Xun Gao, Yulong Wang. Under Substantive Examination.
 - ``2024.04`` An iterative training method for decision planning models based on corrective sample data collection, **Mingjing Liang**, Wenru Liu, Xun Gao, Huan Min, Xuewen Chen. Published.
 - ``2024.04`` A data-driven automated parking function based realization, Huan Min, Wenru Liu, **Mingjing Liang**, Xun Gao. Under Substantive Examination.
