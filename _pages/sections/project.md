@@ -1,27 +1,28 @@
 # Projects
-- *2023.01 - present*, Data-driven Planning System.
-- *2022.01 - 2022.12*, Bézier Curve based Lateral Planning.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Data-driven Planning System
+## Data-driven Planning System
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+In X-lab, GAC R&D, Guangzhou, China. 2023.01 - Present
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Designed a multi-modal neural network with a space-time attention mechanism, enhancing model robustness and decision quality.
+- Developed an end-to-end imitation learning pipeline and deployed it using ROS2 for real-time applications.
+- Contributed to a log-based simulator (LogSim) to align simulated environments with real-world fleet dynamics.
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Bézier Curve based Lateral Planning.
+## Bézier Curve-based Lateral Planning
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+In X-lab, GAC R&D, Guangzhou, China. 2022.01 - 2022.12
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Engineered a real-time path planner leveraging Bézier curves, generating smooth and efficient paths under environmental constraints.
+- Achieved real-time performance (> 10Hz).
+
 </div>
 </div>
