@@ -1,6 +1,6 @@
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/network_arch(need revise).jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/road_test.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Data-driven Planning System
@@ -21,8 +21,7 @@ In X-lab, GAC R&D, Guangzhou, China. 2023.01 - Present
 
 In X-lab, GAC R&D, Guangzhou, China. 2022.01 - 2022.12
 
-- Engineered a real-time path planner leveraging Bézier curves, generating smooth and efficient paths under environmental constraints.
-- Achieved real-time performance (> 10Hz).
+Developed a real-time path planner using Bézier curves, capable of generating smooth and efficient paths under environmental constraints at speeds exceeding 10 Hz.
 
 </div>
 </div>
