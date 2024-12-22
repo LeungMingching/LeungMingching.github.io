@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingjing Liang"
-description              : "Autonomous Driving Researcher. Working on Planning & Control system on AD. Focusing on Learning-based Robotics."
+description              : "Working on Planning & Control system on AD. Interested in Learning-based Robotics."
 repository               : "LeungMingching/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingjing Liang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Autonomous Driving Researcher"
+  bio              : "Autonomous Driving Researcher Engineer"
   location         : "Guangzhou, China"
   resume           : "assets/files/mingjing.liang_cv.pdf"
   employer         :
