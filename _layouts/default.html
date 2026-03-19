@@ -3,7 +3,11 @@ layout: compress
 ---
 
 <!doctype html>
+{% if page.url contains '/cn/' %}
+<html lang="zh-CN" class="no-js">
+{% else %}
 <html lang="en" class="no-js">
+{% endif %}
   <head>
     {% include head.html %}
     {% include head/custom.html %}

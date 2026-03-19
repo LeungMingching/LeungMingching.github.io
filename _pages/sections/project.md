@@ -1,6 +1,6 @@
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/road_test.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/road_test.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Data-driven Planning System
@@ -14,7 +14,7 @@ In X-lab, GAC R&D, Guangzhou, China. 2023.01 - Present
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/bezier_planner.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/bezier_planner.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Bézier Curve-based Lateral Planning
