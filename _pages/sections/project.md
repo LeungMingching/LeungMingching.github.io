@@ -7,11 +7,11 @@
 
 GAC R&D, Guangzhou, China. 2025.02 - Present
 
-– Designed and implemented a distributed data pipeline based on Ray for large-scale bag data processing
+- Designed and implemented a distributed data pipeline based on Ray for large-scale bag data processing
 
-– Enabled automated data generation, filtering, and quality inspection, supporting millions of samples per batch
+- Enabled automated data generation, filtering, and quality inspection, supporting millions of samples per batch
 
-– Iteratively improved pipeline versions, delivering billions of high-quality data clips
+- Iteratively improved pipeline versions, delivering billions of high-quality data clips
 
 </div>
 </div>
@@ -23,11 +23,11 @@ GAC R&D, Guangzhou, China. 2025.02 - Present
 
 GAC R&D, Guangzhou, China. 2023.01 - 2025.01
 
-– Architected and implemented a spatiotemporal attention-based neural planner, enabling end-to-end training and real-vehicle deployment
+- Architected and implemented a spatiotemporal attention-based neural planner, enabling end-to-end training and real-vehicle deployment
 
-– Established the full data pipeline including collection standards, cleaning, augmentation, and balancing
+- Established the full data pipeline including collection standards, cleaning, augmentation, and balancing
 
-– Integrated a trajectory optimizer as a post-processing module for real-time trajectory refinement
+- Integrated a trajectory optimizer as a post-processing module for real-time trajectory refinement
 
 </div>
 </div>
@@ -39,7 +39,7 @@ GAC R&D, Guangzhou, China. 2023.01 - 2025.01
 
 GAC R&D, Guangzhou, China. 2022.01 - 2022.12
 
-– Engineered a real-time path planner leveraging Bézier curves, generating smooth paths with obstacle avoidance
+- Engineered a real-time path planner leveraging Bézier curves, generating smooth paths with obstacle avoidance
 
 </div>
 </div>
