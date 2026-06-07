@@ -1,6 +1,6 @@
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TBD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/datapipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Large-Scale Data Pipeline for Planning 
