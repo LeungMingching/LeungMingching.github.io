@@ -1,15 +1,33 @@
 # Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/datapipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Large-Scale Data Pipeline for Planning 
+
+GAC R&D, Guangzhou, China. 2025.02 - Present
+
+- Designed and implemented a distributed data pipeline based on Ray for large-scale bag data processing
+
+- Enabled automated data generation, filtering, and quality inspection, supporting millions of samples per batch
+
+- Iteratively improved pipeline versions, delivering billions of high-quality data clips
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/road_test.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Data-driven Planning System
 
-In X-lab, GAC R&D, Guangzhou, China. 2023.01 - Present
+GAC R&D, Guangzhou, China. 2023.01 - 2025.01
 
-- Designed a multi-modal neural network with a space-time attention mechanism, enhancing model robustness and decision quality.
-- Developed an end-to-end imitation learning pipeline and deployed it using ROS2 for real-time applications.
-- Contributed to a log-based simulator (LogSim) to align simulated environments with real-world fleet dynamics.
+- Architected and implemented a spatiotemporal attention-based neural planner, enabling end-to-end training and real-vehicle deployment
+
+- Established the full data pipeline including collection standards, cleaning, augmentation, and balancing
+
+- Integrated a trajectory optimizer as a post-processing module for real-time trajectory refinement
 
 </div>
 </div>
@@ -19,9 +37,9 @@ In X-lab, GAC R&D, Guangzhou, China. 2023.01 - Present
 
 ## Bézier Curve-based Lateral Planning
 
-In X-lab, GAC R&D, Guangzhou, China. 2022.01 - 2022.12
+GAC R&D, Guangzhou, China. 2022.01 - 2022.12
 
-Developed a real-time path planner using Bézier curves, capable of generating smooth and efficient paths under environmental constraints at speeds exceeding 10 Hz.
+- Engineered a real-time path planner leveraging Bézier curves, generating smooth paths with obstacle avoidance
 
 </div>
 </div>

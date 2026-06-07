@@ -1,16 +1,19 @@
 # Publications
 
 ## Papers
+
 - ``ISoIRS 2024`` [Planning in Autonomous Driving Using Imitation Learning With Research on
 Data Aggregation](https://ieeexplore.ieee.org/document/10649698), **Mingjing Liang**, Xu Gao, Yulong Wang, Huan Min.
 
 ## Patents
-- ``2024.09`` An optimization based post-processing method for rough initial solutions of decision planning models, **Mingjing Liang**, Xu Gao, Shu Zhang, Huan Min, Peng Nie. Application Filed.
-- ``2024.06`` A fast trajectory planning algorithm based on iterative optimization considering obstacle constraints, Wenru Liu, Huan Min, **Mingjing Liang**, Xun Gao, Yulong Wang. Under Substantive Examination.
-- ``2024.04`` [An iterative training method for decision planning models based on corrective sample data collection](https://patents.google.com/patent/CN118520923A), **Mingjing Liang**, Wenru Liu, Xun Gao, Huan Min, Xuewen Chen.
-- ``2024.04`` A data-driven automated parking function based realization, Huan Min, Wenru Liu, **Mingjing Liang**, Xun Gao. Under Substantive Examination.
-- ``2023.05`` A method for improving the success and comfort of lane change in an automated driving system, Quanqi Wang, Xuewen Chen, Yulong Wang, Huan Min, **Mingjing Liang**. Preliminary Examination Passed.
-- ``2023.03`` [A strategy and method for intra-intersection guide line generation based on cubic spline curves](https://patents.google.com/patent/CN118640916A), Huan Min, Xuewen Chen, Yulong Wang, **Mingjing Liang**, Chengjin Ren.
-- ``2023.03`` A strategy and method to realize autonomous driving through weak pavement feature regions without relying on HD maps, Huan Min, Xuewen Chen, Yulong Wang, **Mingjing Liang**. Under Substantive Examination.
-- ``2022.12`` A path planning algorithm considering lane change time and dynamic obstacles, **Mingjing Liang**, Min Huan, Xuewen Chen, Wenru Liu, Penghe Xie, Quanqi Wang. Under Substantive Examination.
-- ``2022.11`` An intersection path planning method without HD maps, Xuewen Chen, Yulong Wang, Huan Min, **Mingjing Liang**, Haijun Li, Quanqi Wang. Under Substantive Examination.
+
+- ``2025.12`` [Vehicle path planning method, electronic equipment and vehicle](https://patents.google.com/patent/CN121804509A), Xun Gao, **Mingjing Liang**, Wenru Liu, Huan Min, Chengsheng Miao.
+- ``2025.11`` [A driving trajectory planning method, electronic device, storage medium and vehicle](https://patents.google.com/patent/CN121516035A), **Mingjing Liang**, Wenru Liu, Xu Gao, Huan Min.
+- ``2024.04`` [Parking method, device, electronic equipment and readable storage medium](https://patents.google.com/patent/CN118358559A), Huan Min, Wenru Liu, **Mingjing Liang**, Xu Gao.
+<!-- - ``2024.06`` Fast Obstacle-Constrained Trajectory Planning via Iterative Optimization, Wenru Liu, Huan Min, **Mingjing Liang**, Xun Gao, Yulong Wang. Under Substantive Examination. -->
+- ``2024.04`` [Automatic driving model training method and device and electronic equipment](https://patents.google.com/patent/CN118520923A), **Mingjing Liang**, Wenru Liu, Xun Gao, Huan Min, Xuewen Chen.
+- ``2023.05`` [Method, system, device, storage medium and vehicle for lane change control in automatic driving](https://patents.google.com/patent/CN119058675A), Quanqi Wang, Xuewen Chen, Yulong Wang, Huan Min, **Mingjing Liang**.
+- ``2023.03`` [Method, device, vehicle and storage medium for determining intersection guide line](https://patents.google.com/patent/CN118640916A), Huan Min, Xuewen Chen, Yulong Wang, **Mingjing Liang**, Chengjin Ren.
+<!-- - ``2023.03`` HD-Map-Free Driving in Weak Road-Feature Environments, Huan Min, Xuewen Chen, Yulong Wang, **Mingjing Liang**. Under Substantive Examination. -->
+- ``2022.12`` [Vehicle road changing path planning method and device, storage medium and electronic equipment](https://patents.google.com/patent/CN118209121B), **Mingjing Liang**, Min Huan, Xuewen Chen, Wenru Liu, Penghe Xie, Quanqi Wang.
+<!-- - ``2022.11`` HD-Map-Free Intersection Path Planning, Xuewen Chen, Yulong Wang, Huan Min, **Mingjing Liang**, Haijun Li, Quanqi Wang. Under Substantive Examination. -->
